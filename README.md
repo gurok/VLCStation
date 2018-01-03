@@ -6,7 +6,7 @@ Installation
 
 Download and add the VLC Station user script using your preferred user script manager.
 
-VLC Station will offer videos you play as "playlist.vlc".
+Video Station will offer videos you play as "playlist.vlc".
 
 You can then set up your browser to automatically open playlists for seamless VLC playback.
 
