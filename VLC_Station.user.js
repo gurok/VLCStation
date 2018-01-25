@@ -2,8 +2,8 @@
 // @name        VLC Station
 // @namespace   VLCStation
 // @description Makes play buttons in Video Station generate VLC playlists rather than playing videos in the browser.
-// @include     /^https?://[^/]*/.*[?&]launchApp=SYNO.SDS.VideoStation.AppInstance(?=&|$).*$/
-// @version     1
+// @include     /^https?://[^/]*/.*[?&]launchApp=SYNO.SDS.VideoStation.AppInstance(?=[&#]|$).*$/
+// @version     2
 // @grant       GM_registerMenuCommand
 // ==/UserScript==
 
